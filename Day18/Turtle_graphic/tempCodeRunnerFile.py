@@ -1,0 +1,1 @@
+tim.color(random_color())
