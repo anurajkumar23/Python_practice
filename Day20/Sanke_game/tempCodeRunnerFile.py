@@ -1,0 +1,1 @@
+screen.tracer(0)
