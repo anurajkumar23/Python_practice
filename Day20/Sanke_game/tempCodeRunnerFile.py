@@ -1,1 +1,1 @@
-screen.tracer(0)
+Left
