@@ -5,6 +5,7 @@
         "columnspan",
         "exitonclick",
         "Gunjan",
-        "highlightthickness"
+        "highlightthickness",
+        "pyperclip"
     ]
 }
