@@ -15,5 +15,4 @@ for post in facebook_posts:
     except:
         pass
 
-
 print(total_likes)
