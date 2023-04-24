@@ -6,6 +6,7 @@
         "exitonclick",
         "Gunjan",
         "highlightthickness",
+        "iterrows",
         "pyperclip"
     ]
 }
