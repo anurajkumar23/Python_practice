@@ -7,6 +7,8 @@
         "Gunjan",
         "highlightthickness",
         "iterrows",
+        "padx",
+        "pady",
         "pyperclip"
     ]
 }
