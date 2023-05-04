@@ -9,5 +9,5 @@ with smtplib.SMTP("smtp.gmail.com") as connection:
     connection.sendmail(from_addr=my_email,
                         to_addrs="anurajsingh8507191590a@gmail.com",
                         msg="Subject:Hello\n\nThis is the body of my email."
-                        )
+                    )
 
